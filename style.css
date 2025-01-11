@@ -11,7 +11,7 @@ body {
 
 /* Header Style */
 .header {
-    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('new-year-offer-resources/images/Banner\ Image.png');
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('images/Banner\ Image.png');
 
     background-repeat: no-repeat;
     height: 100vh;
@@ -93,7 +93,7 @@ body {
 .three-page {
     border-radius: 16px;
 
-    background: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url('new-year-offer-resources/images/Vectorrr.png');
+    background: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url('images/Vectorrr.png');
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
